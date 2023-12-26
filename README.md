@@ -25,8 +25,15 @@ Beyond my academic pursuits, I'm passionate about the intersection of technology
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/subhrajeet-bhattacharjee/)
-- Twitter: [@Subhrajeet005](https://twitter.com/subhrajeet005)
+<p align="center">
+  <a href="https://www.linkedin.com/in/subhrajeet-bhattacharjee/" target="_blank">
+    <img src="path/to/linkedin-logo.png" alt="LinkedIn" width="30">
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/subhrajeet005" target="_blank">
+    <img src="path/to/twitter-logo.png" alt="Twitter" width="30">
+  </a>&nbsp;&nbsp;
+ 
+</p>
 
 Feel free to connect if you're a fellow student, share similar interests, or just want to chat about the exciting world of technology. Let's learn and grow together!
 
