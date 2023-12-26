@@ -27,7 +27,7 @@ Beyond my academic pursuits, I'm passionate about the intersection of technology
 
 <p align="center">
   <a href="https://www.linkedin.com/in/subhrajeet-bhattacharjee/" target="_blank">
-    <img src="path/to/linkedin-logo.png" alt="LinkedIn" width="30">
+    <img src="[path/to/linkedin-logo.png](https://png.pngtree.com/png-clipart/20190613/original/pngtree-linked-in-icon-png-image_3584840.jpg)" alt="LinkedIn" width="30">
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/subhrajeet005" target="_blank">
     <img src="path/to/twitter-logo.png" alt="Twitter" width="30">
