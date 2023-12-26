@@ -30,7 +30,7 @@ Beyond my academic pursuits, I'm passionate about the intersection of technology
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30">
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/subhrajeet005" target="_blank">
-    <img src="path/to/twitter-logo.png" alt="Twitter" width="30">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30">
   </a>&nbsp;&nbsp;
  
 </p>
